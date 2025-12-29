@@ -1,11 +1,10 @@
 <?php
 /**
  * Plugin Name: OTP Login Pro
- * Plugin URI: https://example.com/otp-login-pro
  * Description: Enterprise-grade OTP authentication system with 150+ features including SMS, Email, WhatsApp, Voice OTP, 2FA/MFA, fraud detection, and deep WordPress ecosystem integration.
  * Version: 2.0.0
- * Author: Your Name
- * Author URI: https://example.com
+ * Author: Shahin Ilderemi
+ * Author URI: https://ildrm.com
  * Text Domain: otp-login-pro
  * Domain Path: /languages
  * Requires at least: 5.8
