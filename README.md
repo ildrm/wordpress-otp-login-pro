@@ -259,9 +259,9 @@ The plugin creates 10 custom tables:
 
 ## Support
 
-- Documentation: [https://example.com/docs](https://example.com/docs)
-- Support Forum: [https://example.com/support](https://example.com/support)
-- Email: support@example.com
+- Documentation: -
+- Support Forum: -
+- Email: ildrm@hotmail.com
 
 ## License
 
@@ -269,4 +269,4 @@ GPL v2 or later
 
 ## Credits
 
-Developed by [Your Name]
+Developed by Shahin Ilderemi
